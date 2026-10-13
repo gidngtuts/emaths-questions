@@ -1,0 +1,12 @@
+---
+subject: O-Level E Maths
+topic: Number and Algebra
+subtopic: Ratio and proportion
+lo_code: N2d
+child_los:
+- N2d
+year: 2026
+syllabus: "4052"
+---
+
+direct and inverse proportion
